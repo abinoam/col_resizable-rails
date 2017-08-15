@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Abinoam P. Marques Jr."]
   spec.email         = ["abinoam@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{colResizable js library gem package}
+  spec.description   = %q{colResizable is a free jQuery plugin designed to enhance any kind of HTML table object adding column resizing features by dragging column anchors manually.}
+  spec.homepage      = "https://github.com/abinoam/col_resizable-rails"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
