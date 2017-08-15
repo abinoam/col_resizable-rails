@@ -1,8 +1,12 @@
-# ColResizable::Rails
+# col_resizable-rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/col_resizable/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
+colResizable.js for Rails.
 
-TODO: Delete this and the text above, and describe your gem
+colResizable.js was created by Alvaro Prieto Lauroba (@alvaro-prieto).
+
+This gem package was made by Abinoam Praxedes Marques Jr. (@abinoam).
+
+This gem provides: colResizable 1.6.
 
 ## Installation
 
@@ -10,6 +14,12 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'col_resizable-rails'
+```
+
+Then add it to your asset pipeline (at ```app/assets/javascripts/application.js```):
+
+```js
+//= require colResizable.min
 ```
 
 And then execute:
@@ -22,7 +32,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Check official colResizable website for usage information.
+* http://www.bacubacu.com/colresizable/
+* https://github.com/alvaro-prieto/colResizable
 
 ## Development
 
